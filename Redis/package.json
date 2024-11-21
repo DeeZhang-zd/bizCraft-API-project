@@ -1,0 +1,16 @@
+{
+  "name": "assignment-1-deezhang-zd",
+  "version": "1.0.0",
+  "description": "**Assignment due at 11:59pm on Monday 4/22/2024**<br/> **Demo due by 11:59pm on Monday 5/6/2024**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
